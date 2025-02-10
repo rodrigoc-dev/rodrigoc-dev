@@ -19,17 +19,21 @@
 
 ## Sobre Mim
 
-🎓 **Estudante e Desenvolvedor** com foco em tecnologias de ponta e construção de soluções robustas.<br>
-🔍 Sempre buscando aprender novas linguagens e aprimorar minhas habilidades.<br>
-🌱 Atualmente explorando projetos em **JavaScript**, **React**, **Node.js**, e **Python**.
+🎓 **Estudante e Desenvolvedor** com foco em tecnologias modernas e soluções robustas.<br>
+🔍 Sempre explorando novas linguagens e frameworks para aprimorar minhas habilidades.<br>
+🌱 Atualmente trabalhando com **JavaScript**, **React**, **Node.js**, e **Python**.
 
 ---
 
 ## ⚙️ Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoc-dev&show_icons=true&theme=radical&icon_color=00FFEF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rodrigoc-dev&theme=radical&background=000000&border=00FFEF&fire=00FFEF&currStreakLabel=00FFEF" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoc-dev&show_icons=true&theme=radical&icon_color=00FFEF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigoc-dev&theme=radical&background=000000&border=00FFEF&fire=00FFEF&currStreakLabel=00FFEF" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoc-dev&layout=compact&langs_count=7&theme=radical&bg_color=000000&text_color=FFFFFF" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
