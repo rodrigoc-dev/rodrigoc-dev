@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou o Rodrigo 👋</h1>
+<h1 align="center">Fala, dev! Eu sou o Rodrigo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFEF&background=121212&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Explorando+novas+tecnologias;Bem-vindo+ao+meu+GitHub!+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFEF&background=121212&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Construindo+soluções+com+tecnologia;Explorando+novas+tecnologias;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,11 +17,12 @@
 
 ---
 
-## Sobre Mim
+## 🚀 Sobre Mim
 
-🎓 **Estudante e Desenvolvedor** com foco em tecnologias modernas e soluções robustas.<br>
-🔍 Sempre explorando novas linguagens e frameworks para aprimorar minhas habilidades.<br>
-🌱 Atualmente trabalhando com **JavaScript**, **React**, **Node.js**, e **Python**.
+💻 **Desenvolvedor Full Stack** apaixonado por tecnologia e soluções inovadoras.<br>
+🔍 Explorando novas tecnologias para aprimorar minhas habilidades e criar projetos impactantes.<br>
+🛠️ Stack principal: **JavaScript | React | Node.js | SQL**.<br>
+📈 Focado em desenvolvimento web, sistemas escaláveis e boas práticas de código.<br>
 
 ---
 
@@ -44,7 +45,7 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FFEF" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
