@@ -31,15 +31,15 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoc-dev&show_icons=true&theme=radical&icon_color=00FFEF&text_color=FFFFFF&bg_color=1a1a1a&hide_border=true)](https://github.com/rodrigoc-dev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoc-dev&show_icons=true&theme=radical&icon_color=00FFEF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&cache_seconds=1800)](https://github.com/rodrigoc-dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigoc-dev&theme=radical&background=1a1a1a&border=00FFEF&fire=00FFEF&currStreakLabel=00FFEF&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodrigoc-dev&theme=radical&background=0D1117&border=00FFEF&fire=00FFEF&currStreakLabel=00FFEF&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
 <div align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoc-dev&layout=compact&langs_count=8&theme=radical&bg_color=1a1a1a&text_color=FFFFFF&hide_border=true)](https://github.com/rodrigoc-dev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoc-dev&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&text_color=FFFFFF&hide_border=true&cache_seconds=1800)](https://github.com/rodrigoc-dev)
 
 </div>
 
