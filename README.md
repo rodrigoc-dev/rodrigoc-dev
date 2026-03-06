@@ -31,15 +31,15 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoc-dev&show_icons=true&theme=radical&icon_color=00FFEF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&cache_seconds=1800)](https://github.com/rodrigoc-dev)
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodrigoc-dev&theme=github_dark" alt="GitHub Stats" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodrigoc-dev&theme=radical&background=0D1117&border=00FFEF&fire=00FFEF&currStreakLabel=00FFEF&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<img height="200" src="https://github-readme-streak-stats-eight.vercel.app?user=rodrigoc-dev&theme=dark" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoc-dev&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&text_color=FFFFFF&hide_border=true&cache_seconds=1800)](https://github.com/rodrigoc-dev)
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigoc-dev&theme=github_dark" alt="Top Languages" />
 
 </div>
 
